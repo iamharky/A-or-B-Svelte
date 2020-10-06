@@ -3,4 +3,4 @@
 A poll app built with **Svelte**.
 
 
-![A or B?](https://raw.githubusercontent.com/iamharky/A-or-B-Svelte/master/a-or-b.gif)
+![A or B?](https://raw.githubusercontent.com/iamharky/A-or-B-Svelte/main/a-or-b.gif)
